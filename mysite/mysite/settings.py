@@ -121,6 +121,3 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # just testing push###
-print("hello")
-#djshfjkshdjk
-#sdfdsdfsdfsdsffsdfsdfsdfs
